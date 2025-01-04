@@ -1,0 +1,1 @@
+# SQL-AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Analysis
