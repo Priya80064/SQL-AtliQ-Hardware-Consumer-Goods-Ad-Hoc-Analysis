@@ -67,7 +67,8 @@ The primary goals of this challenge were:
 This repository contains the following files:  
 1. `ad-hoc-requests.pdf`: Details of the 10 business questions solved in this challenge.  
 2. `Request1 - Request10`: All SQL scripts used to extract and analyze data.  
-3. `Presentation`: A professional presentation showcasing the insights derived from the analysis.  
+3. `Presentation`: A professional presentation showcasing the insights derived from the analysis.
+   Presentation video link : https://youtu.be/HmtIjn70F9k
 
 ---
 
